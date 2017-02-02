@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/frame_imageView1"
+        android:src="@drawable/nature1"
+        android:layout_gravity="center_horizontal|top" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Forest View"
+        android:id="@+id/frame_textView1"
+        android:layout_gravity="center"
+        android:textColor="#FF4081"
+        android:textSize="50dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Light Effect in Jungle"
+        android:id="@+id/frame_textView2"
+        android:layout_gravity="bottom|center"
+        android:gravity="center_horizontal"
+        android:textColor="#FF4081"
+         />
+</FrameLayout>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PraticeApp</string>
+    <string name="day1">Monday</string>
+    <string name="day2">Tuesday</string>
+    <string name="day3">Wednesday</string>
+    <string name="day4">Thrusday</string>
+    <string name="day5">Friday</string>
+
+    <string-array name="week">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thrusday</item>
+        <item>Friday</item>
+    </string-array>
+
+
+    <string-array name="navigation_drawer_items_array">
+        <item>Forest</item>
+        <item>Paint</item>
+        <item>Unknown</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_basic_map">Map</string>
+    <string name="title_activity_map">Map</string>
+
+</resources>

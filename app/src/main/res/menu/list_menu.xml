@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_insert"
+        android:title="insert_data"/>
+
+    <item
+        android:id="@+id/new_folder"
+        android:title="New_Folder"
+        />
+   <item
+       android:id="@+id/delete_folder"
+       android:title="Delete_Folder"/>
+
+
+
+</menu>
